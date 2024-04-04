@@ -1,9 +1,9 @@
-# Welcome to Kight Adventure
+# Welcome to Knight Adventure
 
 ![Start screen](https://github.com/hieugo6789/KnightAdventure/blob/main/Assets/Graphics/UI/Extra/ScreenShots/Screen%20Start.png)
 
 ## Giới thiệu
-Kight Adventure là một trò chơi phiêu lưu hấp dẫn, nơi người chơi sẽ được đưa vào một thế giới phong phú và đầy thách thức. Với đồ họa đẹp mắt và âm thanh sống động, Kight Adventure hứa hẹn mang đến cho người chơi những trải nghiệm độc đáo và thú vị.
+Knight Adventure là một trò chơi phiêu lưu hấp dẫn, nơi người chơi sẽ được đưa vào một thế giới phong phú và đầy thách thức. Với đồ họa đẹp mắt và âm thanh sống động, Knight Adventure hứa hẹn mang đến cho người chơi những trải nghiệm độc đáo và thú vị.
 
 ## Cách chơi
 - Người chơi sẽ điều khiển nhân vật chính của mình để khám phá tòa lâu đài, chiến đấu với quái vật và tiêu diệt boss.
@@ -19,8 +19,8 @@ Kight Adventure là một trò chơi phiêu lưu hấp dẫn, nơi người chơ
 
 ## Cách sử dụng
 - Mở game từ ứng dụng đã cài đặt trên máy tính của bạn.
-- Chọn New Game để bắt đầu cuộc phiêu lưu hoặc Load Game để tiếp tục từ lưu trữ trước đó.
-- Sử dụng các phím mũi tên để di chuyển nhân vật và phím Space để tấn công.
+- Chọn New Game để bắt đầu cuộc phiêu lưu hoặc Continue để tiếp tục từ lưu trữ trước đó.
+- Sử dụng các phím mũi tên để di chuyển nhân vật và chuột trái để tấn công.
 
 
-Cảm ơn bạn đã quan tâm đến Tên game! Hãy thưởng thức trải nghiệm chơi game!
+Cảm ơn bạn đã quan tâm đến Knight Adventure! Hãy thưởng thức trải nghiệm chơi game!
