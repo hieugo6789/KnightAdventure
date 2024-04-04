@@ -1,6 +1,6 @@
 # Welcome to Kight Adventure
 
-![Logo game](link_to_logo)
+![Start screen](https://github.com/hieugo6789/KnightAdventure/blob/main/Assets/Graphics/UI/Extra/ScreenShots/Screen%20Start.png)
 
 ## Giới thiệu
 Tên game là một trò chơi phiêu lưu hấp dẫn, nơi người chơi sẽ được đưa vào một thế giới phong phú và đầy thách thức. Với đồ họa đẹp mắt và âm thanh sống động, Tên game hứa hẹn mang đến cho người chơi những trải nghiệm độc đáo và thú vị.
