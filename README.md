@@ -14,12 +14,12 @@ Knight Adventure là một trò chơi phiêu lưu hấp dẫn, nơi người ch�
 - Đồ họa ấn tượng và hiệu ứng âm thanh chân thực.
 - Hệ thống bộ kĩ năng đa dạng.
 ![Skill screen](https://github.com/hieugo6789/KnightAdventure/blob/main/Assets/Graphics/UI/Extra/ScreenShots/Skill%20Window.png)
-- Cửa sổ phụ kiện, items để trang bị tăng sức mạnh cho nhân v.
+- Cửa sổ phụ kiện, items để trang bị tăng sức mạnh cho nhân vật.
 ![Skill screen](https://github.com/hieugo6789/KnightAdventure/blob/main/Assets/Graphics/UI/Extra/ScreenShots/Craft%20Window.png)
 
 ## Cách sử dụng
 - Mở game từ ứng dụng đã cài đặt trên máy tính của bạn.
-- Chọn New Game để bắt đầu cuộc phiêu lưu hoặc Continue để tiếp tục từ lưu trữ trước đó.
+- Chọn New Game để bắt đầu cuộc thám hiểm hoặc Continue để tiếp tục từ lưu trữ trước đó.
 - Sử dụng các phím mũi tên để di chuyển nhân vật và chuột trái để tấn công.
 
 
